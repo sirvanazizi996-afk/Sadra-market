@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Sadra",
+    "slug": "sadra",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "sadra",
+    "plugins": [
+      "expo-router",
+      "expo-image-picker"
+    ],
+    "android": {
+      "package": "com.sadra.market",
+      "versionCode": 1
+    },
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
